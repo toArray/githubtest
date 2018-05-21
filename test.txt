@@ -7,3 +7,5 @@ master 分支进行了修改
 
 分支策略创建了新的branch fenzhi
 
+
+哈哈哈哈 git checkout fenzhi
